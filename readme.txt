@@ -17,7 +17,7 @@
                                                             /\____/
                                                             \_/__/                             
                                     ---------------------
-			                 		Arin Siefert     
+			                 Arin Siefert     
                                     	   ICS-2OI	    
                                       	  Summative	
                                     ---------------------
